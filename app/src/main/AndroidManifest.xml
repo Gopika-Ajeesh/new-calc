@@ -13,6 +13,9 @@
         android:theme="@style/Theme.NewCalculator"
         tools:targetApi="31">
         <activity
+            android:name=".Mul"
+            android:exported="false" />
+        <activity
             android:name=".Sub"
             android:exported="false" />
         <activity
