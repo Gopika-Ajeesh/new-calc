@@ -38,6 +38,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="subtract"/>
+    <TextView
+        android:id="@+id/reTodispe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="30dp"
+        android:gravity="center"/>
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/back1"
         android:layout_margin="10dp"
